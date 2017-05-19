@@ -1,0 +1,35 @@
+There are FOUR demos at the moment:
+
+1. Image recognition
+
+  Just open and run the notebook ImageRecognition.ipynb
+
+2. Rugby
+
+  Every time you create a new server,
+
+  a. Open a terminal
+  b. Type: cd ~/workspace/Rugby/
+  c. Type: source activate Python2
+  d. Type: pip install -r requirements.txt
+
+  There are two demos in Rugby: SummarisePlayers.ipynb and FindPlayers.ipynb.
+  They only run in Python2, so make sure the Kernel is set to Python2 in
+  the Jupyter notebook menu bar. To change the kernel, go to "Kernel"->"Change Kernel"
+  in the menu bar and select the one that has Python2.
+
+  You don't have to repeat these steps next time you're using this same server.
+  Just open and run the notebooks. We recommend you keep a demo server running
+  to avoid having to repeat these steps.
+
+3. Lens
+
+  Room occupancy from Datasets tab.
+
+4. Customer Intelligence
+
+  Published report from Reports tab. DO NOT RUN THE NOTEBOOK!
+
+
+Any questions or comments, please Slack @seto, @nick or @alberto.f
+

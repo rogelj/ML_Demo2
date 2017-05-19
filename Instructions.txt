@@ -1,0 +1,20 @@
+There are FOUR demos at the moment.
+
+1. Image recognition
+
+  Just open and run the notebook ImageRecognition.ipynb
+
+2. Rugby
+
+  Open and run notebook SummarisePlayers.ipynb or FindPlayers.ipynb
+
+3. Lens
+
+  Room occupancy from Datasets tab.
+
+4. Customer Intelligence
+
+  Published report from Reports tab. No need to run the notebook.
+
+
+Any questions or comments, please Slack @seto, @nick or @alberto.f
